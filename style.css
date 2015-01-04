@@ -1,0 +1,23 @@
+
+/* Main CSS file for The Snake */
+
+/* Reseting */
+body {
+	margin:0px;
+	padding:0px;
+}
+
+/* The game wrapper */
+#wrapper {
+	height:475px;
+	width:735px;
+	margin:20px auto;
+}
+
+/* The game board (canvas) */
+#board {
+	height:475px;
+	width:735px; 
+	background-color:#333333;
+	border:5px solid #1A1A1A;
+}
